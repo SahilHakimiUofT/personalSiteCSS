@@ -1,0 +1,163 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+
+h2 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 2.0rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  color: #11999E;
+  font-size: 1rem;
+}
+
+a {
+  color: #11999E;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  border-color:#EAF6F6;
+  border-width: 5px;
+  margin:50px auto 50px auto;
+
+
+}
+
+.intro {
+  position: relative;
+  padding-top: 100px;
+  background-color: #eaf6f6;
+}
+
+.myName {
+  margin: 0;
+}
+
+.myTitle {
+  font-weight: normal;
+}
+.mountain{
+  width:50%;
+}
+
+.top-cloud {
+  position: absolute;
+  width: 15%;
+  top: 10%;
+  right: 15%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 40%;
+  left: 15%;
+    width: 15%;
+}
+.profile{
+  width: 50%;
+  margin: 50px auto 0 auto;
+
+  line-height: 1.5;
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 20px;
+  padding: 20px;
+
+}
+
+.sun {
+  height: 30%;
+  width: 30%;
+  position: absolute;
+  left: -5%;
+  top: 0;
+}
+
+.sahilImage {
+  border-radius: 50%;
+  width: 25%;
+}
+
+.oop {
+  width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.web-dev {
+  width: 25%;
+float: right;
+margin-left: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 1.5;
+
+}
+
+.description{
+
+  color: #40514E;
+}
+
+.contact-description{
+  margin-bottom: 20px;
+
+}
+
+.contact-me{
+
+  width: 50%;
+  margin: 50px auto 0 auto;
+  padding-bottom: 100px;
+position: relative;
+}
+.btn{
+margin-top: 20px;
+
+
+
+background-color:#66BFBF;
+	border-radius:20px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+
+}
+
+.btn:hover {
+	background-color:#3fabab;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+
+  color: #EAF6F6;
+}
